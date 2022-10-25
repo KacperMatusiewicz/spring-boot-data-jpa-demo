@@ -1,4 +1,4 @@
-package com.example.springbootdatajpademo.relationships.oneToMany.bi;
+package dev.k2.springbootdatajpademo.relationships.oneToMany.bi;
 
 import javax.persistence.*;
 import java.util.List;
